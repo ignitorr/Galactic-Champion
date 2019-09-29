@@ -1,0 +1,494 @@
+first_name,last_name,height_feet,height_inches,weight,debut_year,birthdate,country,years_pro,jersey,position,college
+Alex,Abrines,6,6,200,2016,8/1/1993,Spain,2,8,G,
+Jaylen,Adams,6,2,190,2018,5/4/1996,USA,0,10,G,St. Bonaventure
+Steven,Adams,7,0,265,2013,7/20/1993,New Zealand,5,12,C,Pittsburgh
+Bam,Adebayo,6,10,255,2017,7/18/1997,USA,1,13,C-F,Kentucky
+DeVaughn,Akoon-Purcell,6,6,200,,6/5/1993,Trinidad and Tobago,0,23,G-F,Illinois State
+LaMarcus,Aldridge,6,11,260,2006,7/19/1985,USA,12,12,F,Texas
+Rawle,Alkins,6,5,225,,10/29/1997,,0,20,G,
+Grayson,Allen,6,5,198,,10/8/1995,USA,0,24,G,Duke
+Jarrett,Allen,6,11,237,2017,4/21/1998,USA,1,31,C,Texas
+Al-Farouq,Aminu,6,9,220,2010,9/21/1990,USA,8,8,F,Wake Forest
+Justin,Anderson,6,6,230,2015,11/19/1993,USA,3,1,G-F,Virginia
+Kyle,Anderson,6,9,230,2014,9/20/1993,USA,4,1,F,UCLA
+Ryan,Anderson,6,10,240,2008,5/6/1988,USA,10,15,F,California
+Ike,Anigbogu,6,10,250,2017,10/16/1998,USA,1,13,C,California-Los Angeles
+Giannis,Antetokounmpo,6,11,242,2013,12/6/1994,Greece,5,34,F,Greece
+Kostas,Antetokounmpo,6,10,200,,11/20/1997,Greece,0,37,F,Dayton
+Carmelo,Anthony,6,8,240,2003,5/29/1984,USA,15,7,F,Syracuse
+OG,Anunoby,6,8,232,2017,7/17/1997,United Kingdom,1,3,F,Indiana
+Ryan,Arcidiacono,6,3,200,2017,3/26/1994,USA,1,51,G,Villanova
+Trevor,Ariza,6,8,215,2004,6/30/1985,USA,14,3,F,UCLA
+Omer,Asik,7,0,255,2010,7/4/1986,Turkey,8,3,C,Turkey
+D.J.,Augustin,6,0,183,2008,11/10/1987,USA,10,14,G,Texas
+Deandre,Ayton,7,1,250,2018,7/23/1998,Bahamas,0,22,C,Arizona
+Dwayne,Bacon,6,7,221,2017,8/30/1995,USA,1,7,G-F,Florida State
+Marvin,Bagley III,6,11,234,2018,3/14/1999,USA,0,35,F,Duke
+Ron,Baker,6,4,220,2016,3/30/1993,USA,2,31,G,Wichita State
+Wade,Baldwin IV,6,4,200,2016,3/29/1996,USA,2,2,G,Vanderbilt
+Lonzo,Ball,6,6,190,2017,10/27/1997,USA,1,2,G,California-Los Angeles
+Mohamed,Bamba,7,0,221,2018,5/12/1998,USA,0,5,C,Texas
+J.J.,Barea,6,0,185,2006,6/26/1984,Puerto Rico,12,5,G,Northeastern
+Harrison,Barnes,6,8,225,2012,5/30/1992,USA,6,40,F,North Carolina
+Will,Barton,6,6,190,2012,1/6/1991,USA,6,5,G,Memphis
+Keita,Bates-Diop,6,9,229,,1/23/1996,USA,0,33,F,Ohio State
+Nicolas,Batum,6,8,200,2008,12/14/1988,France,10,5,G-F,"Lisieux, France"
+Jerryd,Bayless,6,3,200,2008,8/20/1988,USA,10,0,G,Arizona
+Aron,Baynes,6,10,260,2012,12/9/1986,Australia,6,46,F-C,Washington State
+Kent,Bazemore,6,5,201,2012,7/1/1989,USA,6,24,G,Old Dominion
+Bradley,Beal,6,5,207,2012,6/28/1993,USA,6,3,G,Florida
+Malik,Beasley,6,5,195,2016,11/26/1996,USA,2,25,G,Florida State
+Michael,Beasley,6,9,235,2008,1/9/1989,USA,10,11,F,Kansas State
+Marco,Belinelli,6,5,210,2007,3/25/1986,Italy,11,18,G-F,"Bologna, Italy"
+Jordan,Bell,6,9,224,2017,1/7/1995,USA,1,2,F,Oregon
+DeAndre',Bembry,6,6,210,2016,7/4/1994,USA,2,95,F,Saint Joseph's
+Dragan,Bender,7,1,225,2016,11/17/1997,Croatia,2,35,F,
+Davis,Bertans,6,10,225,2016,11/12/1992,Latvia,2,42,F,
+Patrick,Beverley,6,1,185,2012,7/12/1988,USA,6,21,G,Arkansas
+Khem,Birch,6,9,233,2017,9/28/1992,Canada,1,24,C,Nevada-Las Vegas
+Jabari,Bird,6,6,198,2017,7/3/1994,USA,1,26,G,California
+Bismack,Biyombo,6,9,255,2011,8/28/1992,Democratic Republic of the Congo,7,8,C,"Lubumbashi, DR Congo"
+Nemanja,Bjelica,6,10,234,2015,5/9/1988,Serbia,3,88,F,
+Antonio,Blakeney,6,4,192,2017,10/4/1996,USA,1,9,G,Louisiana State
+Eric,Bledsoe,6,1,205,2010,12/9/1989,USA,8,6,G,Kentucky
+Trevon,Bluiett,6,6,198,,11/4/1994,USA,0,5,G-F,Xavier (Ohio)
+Bogdan,Bogdanovic,6,6,205,2017,8/18/1992,Serbia,1,8,G,
+Bojan,Bogdanovic,6,8,216,2014,4/18/1989,Croatia,4,44,F,
+Jonah,Bolden,6,10,220,2018,1/2/1996,Australia,0,43,F,
+Isaac,Bonga,6,8,180,,11/8/1999,Germany,0,17,G,
+Devin,Booker,6,6,210,2015,10/30/1996,USA,3,1,G,Kentucky
+Chris,Boucher,6,10,200,2017,1/11/1993,Canada,1,25,F,Oregon
+Avery,Bradley,6,2,180,2010,11/26/1990,USA,8,11,G,Texas
+Tony,Bradley,6,10,248,2017,1/8/1998,USA,1,13,C,North Carolina
+Mikal,Bridges,6,7,210,2018,8/30/1996,USA,0,25,F,Villanova
+Miles,Bridges,6,7,225,2018,3/21/1998,USA,0,0,F,Michigan State
+Isaiah,Briscoe,6,3,215,,4/13/1996,USA,0,13,G,
+Ryan,Broekhoff,6,7,215,2018,8/23/1990,Australia,0,45,G-F,
+Malcolm,Brogdon,6,5,229,2016,12/11/1992,USA,2,13,G,Virginia
+Dillon,Brooks,6,6,220,2017,1/22/1996,Canada,1,24,G-F,Oregon
+MarShon,Brooks,6,5,200,2011,1/26/1989,USA,4,8,G,Providence
+Bruce,Brown,6,5,202,2018,8/15/1996,USA,0,6,G,Miami (FL)
+Jaylen,Brown,6,7,220,2016,10/24/1996,USA,2,7,F,California
+Lorenzo,Brown,6,5,189,2013,8/26/1990,USA,4,4,G,North Carolina State
+Sterling,Brown,6,6,232,2017,2/10/1995,USA,1,23,G,Southern Methodist
+Troy,Brown Jr.,6,7,215,,7/28/1999,USA,0,6,F,Oregon
+Jalen,Brunson,6,3,190,2018,8/31/1996,USA,0,13,G,Villanova
+Thomas,Bryant,6,11,248,2017,7/31/1997,USA,1,13,C,Indiana
+Reggie,Bullock,6,7,205,2013,3/16/1991,USA,5,25,F,North Carolina
+Trey,Burke,6,1,175,2013,11/12/1992,USA,5,23,G,Michigan
+Alec,Burks,6,6,214,2011,7/20/1991,USA,7,10,G,Colorado
+Deonte,Burton,6,5,245,,1/31/1994,USA,0,30,G,Iowa State
+Jimmy,Butler,6,8,232,2011,9/14/1989,USA,7,23,G-F,Marquette
+Jose,Calderon,6,3,200,2005,9/28/1981,Spain,13,81,G,"Villanueva de la Serena, Spain"
+Kentavious,Caldwell-Pope,6,5,205,2013,2/18/1993,USA,5,1,G,Georgia
+Isaiah,Canaan,6,0,200,2013,5/21/1991,USA,5,0,G,Murray State
+Clint,Capela,6,10,240,2014,5/18/1994,Switzerland,4,15,C,
+DeMarre,Carroll,6,8,215,2009,7/27/1986,USA,9,9,F,Missouri
+Jevon,Carter,6,2,196,,9/14/1995,USA,0,3,G,West Virginia
+Vince,Carter,6,6,220,1998,1/26/1977,USA,20,15,G-F,North Carolina
+Wendell,Carter Jr.,6,10,255,,4/16/1999,USA,0,34,F,West Virginia
+Michael,Carter-Williams,6,6,190,2013,10/10/1991,USA,5,1,G,Syracuse
+Alex,Caruso,6,5,186,2017,2/28/1994,USA,1,4,G,Texas A&M
+Omri,Casspi,6,9,225,2009,6/22/1988,Israel,9,18,F,"Yavne, Israel"
+Willie,Cauley-Stein,7,0,240,2015,8/18/1993,USA,3,0,C,Kentucky
+Troy,Caupain,6,4,210,,11/29/1995,USA,0,3,G,Cincinnati
+Tyler,Cavanaugh,6,9,238,2017,2/9/1994,USA,1,34,F,George Washington
+Tyson,Chandler,7,1,240,2001,10/2/1982,USA,17,4,C,Dominquez H.S
+Wilson,Chandler,6,9,225,2007,5/10/1987,USA,10,22,F,DePaul
+Joe,Chealey,6,3,190,,11/1/1995,USA,0,31,G,Charleston (SC)
+Marquese,Chriss,6,10,240,2016,7/2/1997,USA,2,0,F,Washington
+Gary,Clark,6,8,225,2018,11/16/1994,USA,0,6,F,
+Ian,Clark,6,3,175,2013,3/7/1991,USA,5,2,G,Belmont
+Jordan,Clarkson,6,5,194,2014,6/7/1992,USA,4,8,G,Missouri
+John,Collins,6,10,235,2017,9/23/1997,USA,1,20,F-C,Wake Forest
+Zach,Collins,7,0,235,2017,11/19/1997,USA,1,33,F-C,Gonzaga
+Darren,Collison,6,0,175,2009,8/23/1987,USA,9,2,G,UCLA
+Mike,Conley,6,1,175,2007,10/11/1987,USA,11,11,G,Ohio State
+Pat,Connaughton,6,4,209,2015,1/6/1993,USA,3,24,G,Notre Dame
+Quinn,Cook,6,2,179,2016,3/23/1993,USA,2,4,G,Duke
+DeMarcus,Cousins,6,11,270,2010,8/13/1990,USA,8,0,C,Kentucky
+Robert,Covington,6,9,225,2013,12/14/1990,USA,5,33,F,Tennessee State
+Allen,Crabbe,6,6,212,2013,4/9/1992,USA,5,33,G-F,California
+Torrey,Craig,6,7,215,2017,12/19/1990,USA,1,3,F,South Carolina Upstate
+Jamal,Crawford,6,5,185,2000,3/20/1980,USA,18,11,G,Michigan
+Jae,Crowder,6,6,235,2012,7/6/1990,USA,6,99,F,Marquette
+Dante,Cunningham,6,8,230,2009,4/22/1987,USA,10,33,F,Villanova
+Seth,Curry,6,2,185,2013,8/23/1990,USA,4,31,G,Duke
+Stephen,Curry,6,3,190,2009,3/14/1988,USA,9,30,G,Davidson
+Troy,Daniels,6,4,205,2013,7/15/1991,USA,5,30,G,Virginia Commonwealth
+Anthony,Davis,6,10,253,2012,3/11/1993,USA,6,23,F-C,Kentucky
+Ed,Davis,6,10,225,2010,6/5/1989,USA,8,17,C,North Carolina
+Tyler,Davis,6,10,266,,5/22/1997,USA,0,34,C,
+Dewayne,Dedmon,7,0,245,2013,8/12/1989,USA,5,14,C,Southern California
+Sam,Dekker,6,9,230,2015,5/8/1994,USA,3,15,F,Wisconsin
+Angel,Delgado,6,10,245,,11/20/1994,Dominican Republic,0,31,C,
+Matthew,Dellavedova,6,4,200,2013,9/8/1990,Australia,5,8,G,Saint Mary's (CA)
+Luol,Deng,6,9,237,2004,4/16/1985,United Kingdom,14,9,F,Duke
+DeMar,DeRozan,6,7,220,2009,8/7/1989,USA,9,10,G,Southern California
+Marcus,Derrickson,6,7,249,,2/1/1996,USA,0,32,F,
+Cheick,Diallo,6,9,220,2016,9/13/1996,Mali,2,13,F,Kansas
+Hamidou,Diallo,6,5,198,2018,7/31/1998,USA,0,6,G,Kentucky
+Gorgui,Dieng,6,11,252,2013,1/18/1990,Senegal,5,5,C,Louisville
+Spencer,Dinwiddie,6,6,210,2014,4/6/1993,USA,4,8,G,Colorado
+Donte,DiVincenzo,6,4,203,2018,1/31/1997,USA,0,9,G,Villanova
+Luka,Doncic,6,7,218,2018,2/28/1999,Slovenia,0,77,G-F,
+Tyler,Dorsey,6,5,183,2017,2/18/1996,USA,1,2,G,Oregon
+Damyean,Dotson,6,6,210,2017,5/6/1994,USA,1,21,G,Houston
+PJ,Dozier,6,6,205,2017,10/25/1996,USA,1,50,G-F,South Carolina
+Goran,Dragic,6,3,190,2008,5/6/1986,Slovenia,10,7,G,"Ljubljana, Slovenia"
+Andre,Drummond,6,11,279,2012,8/10/1993,USA,6,0,C,Connecticut
+Jared,Dudley,6,7,237,2007,7/10/1985,USA,11,6,F,Boston College
+Kris,Dunn,6,4,205,2016,3/18/1994,USA,2,32,G,Providence
+Kevin,Durant,6,9,240,2007,9/29/1988,USA,11,35,F,Texas
+Trevon,Duval,6,2,189,,8/3/1998,,0,0,G,
+Vincent,Edwards,6,8,225,,4/5/1996,USA,0,12,F,Purdue
+Henry,Ellenson,6,11,245,2016,1/13/1997,USA,2,8,F,Marquette
+Wayne,Ellington,6,5,200,2009,11/29/1987,USA,9,2,G,North Carolina
+Joel,Embiid,7,0,250,2016,3/16/1994,Cameroon,2,21,F-C,Kansas
+James,Ennis III,6,7,210,2014,7/1/1990,USA,4,8,F,Long Beach State
+Drew,Eubanks,6,10,245,,2/1/1997,USA,0,14,F,
+Jacob,Evans,6,6,210,,6/18/1997,USA,0,10,G,Cincinnati
+Keenan,Evans,6,3,190,,8/23/1996,USA,0,12,G,
+Tyreke,Evans,6,6,220,2009,9/19/1989,USA,9,12,G,Memphis
+Dante,Exum,6,6,190,2014,7/13/1995,Australia,3,11,G,
+Kenneth,Faried,6,8,220,2011,11/19/1989,USA,7,35,F-C,Morehead State
+Derrick,Favors,6,10,265,2010,7/15/1991,USA,8,15,F-C,Georgia Tech
+Cristiano,Felicio,6,10,265,2015,7/7/1992,Brazil,3,6,F-C,
+Raymond,Felton,6,1,205,2005,6/26/1984,USA,13,2,G,North Carolina
+Terrance,Ferguson,6,7,190,2017,5/17/1998,USA,1,23,G,
+Yogi,Ferrell,6,0,180,2016,5/9/1993,USA,2,3,G,Indiana
+Dorian,Finney-Smith,6,8,220,2016,5/4/1993,USA,2,10,F,Florida
+Bryn,Forbes,6,3,190,2016,7/23/1993,USA,2,11,G,Michigan State
+Evan,Fournier,6,7,205,2012,10/29/1992,France,6,10,G-F,France
+De'Aaron,Fox,6,3,175,2017,12/20/1997,USA,1,5,G,Kentucky
+Tim,Frazier,6,1,170,2014,11/1/1990,USA,4,10,G,
+Melvin,Frazier Jr.,6,6,200,,8/30/1996,USA,0,35,G-F,Tulane
+Channing,Frye,7,0,255,2005,5/17/1983,USA,12,9,F-C,Arizona
+Markelle,Fultz,6,4,200,2017,5/29/1998,USA,1,20,G,Washington
+Wenyen,Gabriel,6,9,205,,3/26/1997,,0,32,F,
+Danilo,Gallinari,6,10,225,2008,8/8/1988,Italy,9,8,F,"Sant'Angelo Lodigiano, Italy"
+Langston,Galloway,6,2,200,2014,12/9/1991,USA,4,9,G,Saint Joseph's
+Marc,Gasol,7,1,255,2008,1/29/1985,Spain,10,33,C,"Barcelona, Spain"
+Pau,Gasol,7,0,250,2001,7/6/1980,Spain,17,16,C-F,"Barcelona, Spain"
+Rudy,Gay,6,8,230,2006,8/17/1986,USA,12,22,F,Connecticut
+Paul,George,6,9,220,2010,5/2/1990,USA,8,13,F,Fresno State
+Taj,Gibson,6,9,232,2009,6/24/1985,USA,9,67,F,Southern California
+Harry,Giles III,6,10,240,2018,4/22/1998,USA,0,20,F-C,Duke
+Shai,Gilgeous-Alexander,6,6,181,2018,7/12/1998,Canada,0,2,G,Kentucky
+Rudy,Gobert,7,1,245,2013,6/26/1992,France,5,27,C,France
+Aaron,Gordon,6,9,220,2014,9/16/1995,USA,4,0,F,Arizona
+Eric,Gordon,6,4,215,2008,12/25/1988,USA,10,10,G,Indiana
+Marcin,Gortat,6,11,240,2007,2/17/1984,Poland,11,13,C,"Lodz, Poland"
+Devonte',Graham,6,2,185,,2/22/1995,USA,0,4,G,Kansas
+Treveon,Graham,6,5,225,2016,10/28/1993,USA,2,21,F,Virginia Commonwealth
+Jerami,Grant,6,9,220,2014,3/12/1994,USA,4,9,F,Syracuse
+Jerian,Grant,6,4,205,2015,10/9/1992,USA,3,22,G,Notre Dame
+Danny,Green,6,6,215,2009,6/22/1987,USA,9,14,G-F,North Carolina
+Draymond,Green,6,7,230,2012,3/4/1990,USA,6,23,F,Michigan State
+Gerald,Green,6,7,205,2005,1/26/1986,USA,11,14,G-F,Gulf Shores Aca. (TX)
+JaMychal,Green,6,9,227,2014,6/21/1990,USA,4,0,F,Alabama
+Jeff,Green,6,9,235,2007,8/28/1986,USA,10,32,F,Georgetown
+Blake,Griffin,6,10,250,2010,3/16/1989,USA,8,23,F,Oklahoma
+Daniel,Hamilton,6,7,195,2017,8/8/1995,USA,1,5,G-F,Connecticut
+Tim,Hardaway Jr.,6,6,205,2013,3/16/1992,USA,5,3,G,Michigan
+James,Harden,6,5,220,2009,8/26/1989,USA,9,13,G,Arizona State
+Maurice,Harkless,6,9,220,2012,5/11/1993,USA,6,4,F,St. John's (NY)
+Montrezl,Harrell,6,8,240,2015,1/26/1994,USA,3,5,F-C,Louisville
+Devin,Harris,6,3,185,2004,2/27/1983,USA,14,34,G,Wisconsin
+Gary,Harris,6,4,210,2014,9/14/1994,USA,4,14,G,Michigan State
+Joe,Harris,6,6,218,2014,9/6/1991,USA,4,12,G-F,Virginia
+Tobias,Harris,6,9,235,2011,7/15/1992,USA,7,34,F,Tennessee
+Andrew,Harrison,6,6,213,2016,10/28/1994,USA,2,5,G,Kentucky
+Josh,Hart,6,5,215,2017,3/6/1995,USA,1,3,G,Villanova
+Isaiah,Hartenstein,7,0,249,2018,5/5/1998,Germany,0,55,F-C,
+Udonis,Haslem,6,8,235,2003,6/9/1980,USA,15,40,F,Florida
+Gordon,Hayward,6,8,225,2010,3/23/1990,USA,8,20,F,Butler
+John,Henson,6,11,219,2012,12/28/1990,USA,6,31,F,North Carolina
+Juancho,Hernangomez,6,9,230,2016,9/28/1995,Spain,2,41,F,
+Willy,Hernangomez,6,11,240,2016,5/27/1994,Spain,3,41,C,Spain
+Mario,Hezonja,6,8,225,2015,2/25/1995,Croatia,3,8,F,Croatia
+Isaiah,Hicks,6,9,230,2017,7/24/1994,USA,1,4,F,North Carolina
+Buddy,Hield,6,4,214,2016,12/17/1993,Bahamas,2,24,G,Oklahoma
+George,Hill,6,3,188,2008,5/4/1986,USA,10,3,G,Indiana Purdue-Indianapolis
+Solomon,Hill,6,7,225,2013,3/18/1991,USA,5,44,F,Arizona
+Aaron,Holiday,6,1,185,2018,9/30/1996,USA,0,3,G,California-Los Angeles
+Jrue,Holiday,6,4,205,2009,6/12/1990,USA,9,11,G,UCLA
+Justin,Holiday,6,6,181,2012,4/5/1989,USA,5,7,G,Washington
+John,Holland,6,5,205,2017,11/6/1988,USA,1,10,G,Boston U.
+Rondae,Hollis-Jefferson,6,7,217,2015,1/3/1995,USA,3,24,F,Arizona
+Richaun,Holmes,6,10,235,2015,10/15/1993,USA,3,21,F-C,Bowling Green
+Rodney,Hood,6,8,206,2014,10/20/1992,USA,4,1,G,Duke
+Al,Horford,6,10,245,2007,6/3/1986,Dominican Republic,11,42,F-C,Florida
+Dwight,Howard,6,11,265,2004,12/8/1985,USA,14,21,C,SW Atlanta Christian Academy (GA)
+Kevin,Huerter,6,7,190,2018,8/27/1998,USA,0,3,G,Maryland
+Chandler,Hutchison,6,7,197,,4/26/1996,USA,0,15,F,Boise State
+Serge,Ibaka,6,10,235,2009,9/18/1989,Democratic Republic of the Congo,9,9,F-C,"Brazzaville, Rep. of Congo"
+Andre,Iguodala,6,6,215,2004,1/28/1984,USA,14,9,G-F,Arizona
+Ersan,Ilyasova,6,10,235,2006,5/15/1987,Turkey,10,77,F,"Eskisehir, Turkey"
+Joe,Ingles,6,8,226,2014,10/2/1987,Australia,4,2,F,
+Brandon,Ingram,6,9,190,2016,9/2/1997,USA,2,14,F,Duke
+Kyrie,Irving,6,3,193,2011,3/23/1992,Australia,7,11,G,Duke
+Jonathan,Isaac,6,10,210,2017,10/3/1997,USA,1,1,F,Florida State
+Wes,Iwundu,6,7,195,2017,12/20/1994,USA,1,25,F,Kansas State
+Demetrius,Jackson,6,1,201,2016,9/7/1994,USA,2,11,G,Notre Dame
+Frank,Jackson,6,3,205,2018,5/4/1998,USA,0,15,G,Duke
+Josh,Jackson,6,8,200,2017,2/10/1997,USA,1,20,F,Kansas
+Justin,Jackson,6,8,210,2017,3/28/1995,USA,1,25,F,North Carolina
+Reggie,Jackson,6,3,208,2011,4/16/1990,USA,7,1,G,Boston College
+Jaren,Jackson Jr.,6,11,242,2018,9/15/1999,USA,0,13,F-C,Michigan State
+LeBron,James,6,8,250,2003,12/30/1984,USA,15,23,F,St. Vincent-St. Mary HS (OH)
+Amile,Jefferson,6,9,222,,5/7/1993,USA,0,11,F,Duke
+Jonas,Jerebko,6,10,231,2009,3/2/1987,Sweden,8,21,F,"Kinna, Sweden"
+Alize,Johnson,6,9,212,,4/22/1996,USA,0,24,F,Missouri State
+Amir,Johnson,6,9,240,2005,5/1/1987,USA,13,5,C-F,Westchester HS (Los Angeles)
+James,Johnson,6,8,240,2009,2/20/1987,USA,9,16,F,Wake Forest
+Stanley,Johnson,6,7,245,2015,5/29/1996,USA,3,7,F,Arizona
+Tyler,Johnson,6,4,190,2014,5/7/1992,USA,4,8,G,Fresno State
+Wesley,Johnson,6,7,215,2010,7/11/1987,USA,8,33,F-G,Syracuse
+Nikola,Jokic,7,0,250,2015,2/19/1995,Serbia,3,15,C,
+Damian,Jones,7,0,245,2016,6/30/1995,USA,2,15,C,Vanderbilt
+Tyus,Jones,6,2,196,2015,5/10/1996,USA,3,1,G,Duke
+Derrick,Jones Jr.,6,7,200,2016,2/15/1997,USA,2,5,F-G,Nevada-Las Vegas
+DeAndre,Jordan,6,11,265,2008,7/21/1988,USA,10,6,C,Texas A&M
+Cory,Joseph,6,3,193,2011,8/20/1991,Canada,7,6,G,Texas
+Frank,Kaminsky,7,0,242,2015,4/4/1993,USA,3,44,F-C,Wisconsin
+Enes,Kanter,6,11,250,2011,5/20/1992,Turkey,7,0,C,Kentucky
+Luke,Kennard,6,5,206,2017,6/24/1996,USA,1,5,G,Duke
+Michael,Kidd-Gilchrist,6,7,232,2012,9/26/1993,USA,6,14,F,Kentucky
+George,King,6,6,220,,1/15/1994,USA,0,8,F,Colorado
+Maxi,Kleber,6,11,240,2017,1/29/1992,Germany,1,42,F,
+Brandon,Knight,6,3,195,2011,12/2/1991,USA,6,2,G,Kentucky
+Kevin,Knox,6,9,215,2018,8/11/1999,USA,0,20,F,Kentucky
+Furkan,Korkmaz,6,7,190,2017,7/24/1997,Turkey,1,30,G-F,
+Luke,Kornet,7,1,250,2017,7/15/1995,USA,1,2,F-C,Vanderbilt
+Kyle,Korver,6,7,212,2003,3/17/1981,USA,15,26,G-F,Creighton
+Kosta,Koufos,7,0,245,2008,2/24/1989,USA,10,41,C,Ohio State
+Rodions,Kurucs,6,9,210,2018,2/5/1998,Latvia,0,0,F,
+Kyle,Kuzma,6,9,220,2017,7/24/1995,USA,1,0,F,Utah
+Skal,Labissiere,6,11,235,2016,3/18/1996,Haiti,2,7,F,Kentucky
+Jeremy,Lamb,6,5,185,2012,5/30/1992,USA,6,3,G,Connecticut
+Zach,LaVine,6,5,200,2014,3/10/1995,USA,4,8,G,UCLA
+Jake,Layman,6,9,215,2016,3/7/1994,USA,2,10,F,Maryland
+TJ,Leaf,6,10,225,2017,4/30/1997,USA,1,22,F,California-Los Angeles
+Courtney,Lee,6,5,215,2008,10/3/1985,USA,10,5,G,Western Kentucky
+Damion,Lee,6,6,210,2017,10/21/1992,USA,1,1,G,Louisville
+Alex,Len,7,1,250,2013,6/16/1993,Ukraine,5,25,C,Maryland
+Kawhi,Leonard,6,7,230,2011,6/29/1991,USA,7,2,F,San Diego State
+Meyers,Leonard,7,1,255,2012,2/27/1992,USA,6,11,F-C,Illinois
+Jon,Leuer,6,10,228,2011,5/14/1989,USA,7,30,F,Wisconsin
+Caris,LeVert,6,7,204,2016,8/25/1994,USA,2,22,G,Michigan
+Damian,Lillard,6,3,195,2012,7/15/1990,USA,6,0,G,Weber State
+Jeremy,Lin,6,3,200,2010,8/23/1988,USA,8,7,G,Harvard
+Shaun,Livingston,6,7,192,2004,9/11/1985,USA,13,34,G,Peoria Central HS (IL)
+Zach,Lofton,6,4,180,2018,11/18/1992,USA,0,18,G,New Mexico State
+Kevon,Looney,6,9,220,2015,2/6/1996,USA,3,5,F,UCLA
+Brook,Lopez,7,0,270,2008,4/1/1988,USA,10,11,C,Stanford
+Robin,Lopez,7,0,275,2008,4/1/1988,USA,10,42,C,Stanford
+Kevin,Love,6,10,251,2008,9/7/1988,USA,10,0,F-C,UCLA
+Kyle,Lowry,6,1,196,2006,3/25/1986,USA,12,7,G,Villanova
+Jordan,Loyd,6,4,210,,7/27/1993,USA,0,8,G,Indianapolis
+Timothe,Luwawu-Cabarrot,6,6,210,2016,5/9/1995,France,2,7,G-F,
+Tyler,Lydon,6,10,225,2017,4/9/1996,USA,1,20,F,Syracuse
+Trey,Lyles,6,10,234,2015,11/5/1995,USA,3,7,F,Kentucky
+Shelvin,Mack,6,3,203,2011,4/22/1990,USA,7,6,G,Butler
+Daryl,Macon,6,3,185,,11/29/1995,USA,0,3,G,Arkansas
+J.P.,Macura,6,5,205,,6/5/1995,USA,0,55,G,Xavier (Ohio)
+Ian,Mahinmi,6,11,262,2007,11/5/1986,France,11,28,C,"Rouen, France"
+Thon,Maker,7,1,221,2016,2/25/1997,South Sudan,2,7,F,
+Boban,Marjanovic,7,3,290,2015,8/15/1988,Serbia,3,51,C,
+Lauri,Markkanen,7,0,240,2017,5/22/1997,Finland,1,24,F,Arizona
+Jarell,Martin,6,10,239,2015,5/24/1994,USA,3,2,F,Louisiana State
+Frank,Mason,5,11,190,2017,4/3/1994,USA,1,10,G,Kansas
+Yante,Maten,6,8,240,,8/14/1996,USA,0,0,F,
+Wesley,Matthews,6,5,220,2009,10/14/1986,USA,9,23,G-F,Marquette
+Luc,Mbah a Moute,6,8,230,2008,9/9/1986,Cameroon,10,12,F,UCLA
+CJ,McCollum,6,3,190,2013,9/19/1991,USA,5,3,G,Lehigh
+T.J.,McConnell,6,2,190,2015,3/25/1992,USA,3,12,G,Arizona
+Doug,McDermott,6,8,225,2014,1/3/1992,USA,4,20,F,Creighton
+JaVale,McGee,7,0,270,2008,1/19/1988,USA,10,7,C,Nevada
+Rodney,McGruder,6,4,200,2016,7/29/1991,USA,2,17,G-F,Kansas State
+Alfonzo,McKinnie,6,8,215,2017,9/17/1992,USA,1,28,F,Wisc.-Green Bay
+Ben,McLemore,6,5,201,2013,2/11/1993,USA,5,23,G,Kansas
+Jordan,McRae,6,5,179,2015,3/28/1991,USA,2,52,G,Tennessee
+Jodie,Meeks,6,4,210,2009,8/21/1987,USA,9,,G,Kentucky
+Salah,Mejri,7,2,235,2015,6/15/1986,Tunisia,3,50,C,
+De'Anthony,Melton,6,4,200,,5/28/1998,USA,0,14,G,Southern California
+Chimezie,Metu,6,10,225,,3/22/1997,USA,0,7,F,Southern California
+Khris,Middleton,6,8,222,2012,8/12/1991,USA,6,22,F,Texas A&M
+CJ,Miles,6,6,220,2005,3/18/1987,USA,13,0,F-G,Skyline HS (TX)
+Darius,Miller,6,8,225,2012,3/21/1990,USA,4,21,F,Kentucky
+Patty,Mills,6,0,180,2009,8/11/1988,Australia,9,8,G,Saint Mary's (CA)
+Paul,Millsap,6,8,246,2006,2/10/1985,USA,12,4,F,Louisiana Tech
+Shake,Milton,6,6,207,,9/26/1996,USA,0,18,G,Southern Methodist
+Nikola,Mirotic,6,10,250,2014,2/11/1991,Montenegro,4,3,F,
+Donovan,Mitchell,6,3,215,2017,9/7/1996,USA,1,45,G,Louisville
+Naz,Mitrou-Long,6,4,218,2017,8/3/1993,Canada,1,30,G,Iowa State
+Malik,Monk,6,3,200,2017,2/4/1998,USA,1,1,G,Kentucky
+Greg,Monroe,6,11,265,2010,6/4/1990,USA,8,15,C,Georgetown
+Ben,Moore,6,8,220,2017,5/13/1995,USA,1,26,F,Southern Methodist
+E'Twaun,Moore,6,4,191,2011,2/25/1989,USA,7,55,G,Purdue
+Jaylen,Morris,6,5,185,2017,9/19/1995,USA,1,30,G,Molloy
+Marcus,Morris,6,9,235,2011,9/2/1989,USA,7,13,F,Kansas
+Markieff,Morris,6,10,245,2011,9/2/1989,USA,7,5,F,Kansas
+Monte,Morris,6,3,175,2017,6/27/1995,USA,1,11,G,Iowa State
+Johnathan,Motley,6,10,230,2017,5/4/1995,USA,1,15,F,Baylor
+Timofey,Mozgov,7,1,275,2010,7/16/1986,Russia,8,21,C,"St. Petersburg, Russia"
+Emmanuel,Mudiay,6,5,200,2015,3/5/1996,Democratic Republic of the Congo,3,1,G,
+Dejounte,Murray,6,5,170,2016,9/19/1996,USA,2,5,G,Washington
+Jamal,Murray,6,4,207,2016,2/23/1997,Canada,2,27,G,Kentucky
+Dzanan,Musa,6,9,208,,5/8/1999,Bosnia and Herzegovina,0,30,G-F,
+Mike,Muscala,6,11,240,2013,7/1/1991,USA,5,31,F-C,Bucknell
+Svi,Mykhailiuk,6,8,205,,6/10/1997,Ukraine,0,10,F,Kansas
+Abdel,Nader,6,6,225,2017,9/25/1993,Egypt,1,11,F,Iowa State
+Larry,Nance Jr.,6,9,230,2015,1/1/1993,USA,3,22,F,Wyoming
+Shabazz,Napier,6,1,180,2014,7/14/1991,USA,4,13,G,Connecticut
+Nene,,6,11,250,2002,9/13/1982,Brazil,16,42,C-F,"Sao Carlos, Brazil"
+Raul,Neto,6,1,179,2015,5/19/1992,Brazil,3,25,G,
+Georges,Niang,6,8,230,2016,6/17/1993,USA,2,31,F,Iowa State
+Nerlens,Noel,6,11,220,2014,4/10/1994,USA,4,3,F-C,Kentucky
+Dirk,Nowitzki,7,0,245,1998,6/19/1978,Germany,20,41,F,"Wurzburg, Germany"
+Frank,Ntilikina,6,6,200,2017,7/28/1998,France,1,11,G,
+James,Nunnally,6,7,208,2013,7/14/1990,USA,1,7,F,California-Santa Barbara
+Jusuf,Nurkic,7,0,275,2014,8/23/1994,Bosnia & Herzegovina,4,27,C,
+David,Nwaba,6,4,219,2016,1/14/1993,USA,2,12,G,Cal Poly-S.L.O.
+Royce,O'Neale,6,6,226,2017,6/5/1993,USA,1,23,F,Baylor
+Kyle,O'Quinn,6,10,250,2012,3/26/1990,USA,6,10,C,Norfolk State
+Semi,Ojeleye,6,7,241,2017,12/5/1994,USA,1,37,F,Southern Methodist
+Jahlil,Okafor,6,11,275,2015,12/15/1995,USA,3,8,C,Duke
+Elie,Okobo,6,2,180,2018,10/23/1997,France,0,2,G,
+Josh,Okogie,6,4,212,,9/1/1998,Nigeria,0,20,G,Georgia Tech
+Victor,Oladipo,6,4,210,2013,5/4/1992,USA,5,4,G,Indiana
+Kelly,Olynyk,7,0,240,2013,4/19/1991,Canada,5,9,F,Gonzaga
+Cedi,Osman,6,8,215,2017,4/8/1995,Turkey,1,16,F,Anadolu Efes
+Kelly,Oubre Jr.,6,7,205,2015,12/9/1995,USA,3,12,F,Kansas
+Zaza,Pachulia,6,11,270,2003,2/10/1984,Georgia,15,27,C,"Tbilisi, Georgia"
+Jabari,Parker,6,8,245,2014,3/15/1995,USA,4,2,F,Duke
+Tony,Parker,6,2,185,2001,5/17/1982,France,17,9,G,"Paris, France"
+Chandler,Parsons,6,10,230,2011,10/25/1988,USA,7,25,F,Florida
+Patrick,Patterson,6,9,230,2010,3/14/1989,USA,8,54,F,Kentucky
+Justin,Patton,7,0,241,2017,6/14/1997,USA,1,24,C,Creighton
+Chris,Paul,6,0,175,2005,5/6/1985,USA,13,3,G,Wake Forest
+Cameron,Payne,6,3,190,2015,8/8/1994,USA,3,22,G,Murray State
+Elfrid,Payton,6,4,185,2014,2/22/1994,USA,4,4,G,Louisiana-Lafayette
+Theo,Pinson,6,6,218,,11/5/1995,USA,0,10,G-F,
+Mason,Plumlee,6,11,235,2013,3/5/1990,USA,5,24,F-C,Duke
+Miles,Plumlee,6,11,249,2012,9/1/1988,USA,6,18,C,Duke
+Jakob,Poeltl,7,0,230,2016,10/15/1995,Austria,2,25,C,Utah
+Quincy,Pondexter,6,7,230,2010,3/10/1988,USA,6,3,F,Washington
+Michael,Porter Jr.,6,10,210,,6/29/1998,USA,0,1,F,Missouri
+Otto,Porter Jr.,6,8,198,2013,6/3/1993,USA,5,22,F,Georgetown
+Bobby,Portis,6,11,250,2015,2/10/1995,USA,3,5,F,Arkansas
+Kristaps,Porzingis,7,3,240,2015,8/2/1995,Latvia,3,6,F-C,
+Dwight,Powell,6,11,240,2014,7/20/1991,Canada,4,7,F-C,Stanford
+Norman,Powell,6,4,215,2015,5/25/1993,USA,3,24,F-G,UCLA
+Alex,Poythress,6,9,235,2016,9/6/1993,USA,2,22,F,Kentucky
+Billy,Preston,6,10,240,,10/26/1997,USA,0,20,F,University of Kansas
+Taurean,Prince,6,8,220,2016,3/22/1994,USA,2,12,F,Baylor
+Zhou,Qi,7,1,210,2017,1/16/1996,China,1,9,F-C,
+Ivan,Rabb,6,10,220,2017,2/4/1997,USA,1,10,F,California
+Julius,Randle,6,9,250,2014,11/29/1994,USA,4,30,F,Kentucky
+Zach,Randolph,6,9,250,2001,7/16/1981,USA,17,50,F,Michigan State
+JJ,Redick,6,4,200,2006,6/24/1984,USA,12,17,G,Duke
+Josh,Richardson,6,6,200,2015,9/15/1993,USA,3,0,F,Tennessee
+Malachi,Richardson,6,6,205,2016,1/5/1996,USA,2,22,G,Syracuse
+Austin,Rivers,6,4,200,2012,8/1/1992,USA,6,1,G,Duke
+Andre,Roberson,6,7,210,2013,12/4/1991,USA,5,21,G-F,Colorado
+Devin,Robinson,6,8,200,2017,3/7/1995,USA,1,7,F,Florida
+Duncan,Robinson,6,8,210,,4/22/1994,USA,0,55,F,Michigan
+Jerome,Robinson,6,5,190,,2/22/1997,USA,0,10,G,Boston College
+Mitchell,Robinson,7,1,240,2018,4/1/1998,USA,0,26,C,
+Glenn,Robinson III,6,6,222,2014,1/8/1994,USA,4,22,G-F,Michigan
+Rajon,Rondo,6,1,186,2006,2/22/1986,USA,12,9,G,Kentucky
+Derrick,Rose,6,3,200,2008,10/4/1988,USA,9,25,G,Memphis
+Terrence,Ross,6,7,206,2012,2/5/1991,USA,6,31,G-F,Washington
+Terry,Rozier,6,1,190,2015,3/17/1994,USA,3,12,G,Louisville
+Ricky,Rubio,6,4,190,2011,10/21/1990,Spain,7,3,G,"El Masnou, Spain"
+D'Angelo,Russell,6,5,198,2015,2/23/1996,USA,3,1,G,Ohio State
+Domantas,Sabonis,6,11,240,2016,5/3/1996,Lithuania,2,11,F,Gonzaga
+Dario,Saric,6,10,223,2016,4/8/1994,Croatia,2,9,F,
+Tomas,Satoransky,6,7,210,2016,10/30/1991,Czech Republic,2,31,G-F,
+Dennis,Schroder,6,1,172,2013,9/15/1993,Germany,5,17,G,Germany
+Mike,Scott,6,8,237,2012,7/16/1988,USA,6,30,F,Virginia
+Thabo,Sefolosha,6,7,220,2006,5/2/1984,Switzerland,12,22,F,"Vevey, Switzerland"
+Wayne,Selden,6,5,230,2016,9/30/1994,USA,2,7,G-F,Kansas
+Collin,Sexton,6,2,190,2018,1/4/1999,USA,0,2,G,Alabama
+Landry,Shamet,6,5,188,2018,3/13/1997,USA,0,23,G,Wichita State
+Iman,Shumpert,6,5,215,2011,6/26/1990,USA,7,9,G,Georgia Tech
+Pascal,Siakam,6,9,230,2016,4/2/1994,Cameroon,2,43,F,New Mexico State
+Ben,Simmons,6,10,230,2017,7/20/1996,Australia,1,25,G-F,Louisiana State
+Jonathon,Simmons,6,6,195,2015,9/14/1989,USA,3,17,F,Houston
+Anfernee,Simons,6,4,185,,6/8/1999,USA,0,24,G,IMG Academy
+Marcus,Smart,6,4,220,2014,3/6/1994,USA,4,36,G,Oklahoma State
+Ish,Smith,6,0,175,2010,7/5/1988,USA,8,14,G,Wake Forest
+Jason,Smith,7,0,240,2007,3/2/1986,USA,10,14,F-C,Colorado State
+JR,Smith,6,6,225,2004,9/9/1985,USA,14,5,G-F,St. Benedict's Prep (NJ)
+Zhaire,Smith,6,4,199,,6/4/1999,USA,0,8,G,Texas Tech
+Dennis,Smith Jr.,6,3,195,2017,11/25/1997,USA,1,1,G,North Carolina State
+Tony,Snell,6,7,213,2013,11/10/1991,USA,5,21,G,New Mexico
+Ray,Spalding,6,10,215,2018,3/11/1997,USA,0,26,F,Louisville
+Omari,Spellman,6,9,245,2018,7/21/1997,USA,0,6,F,Villanova
+Nik,Stauskas,6,6,205,2014,10/7/1993,Canada,4,6,G,Michigan
+DJ,Stephens,6,5,188,2013,12/19/1990,USA,1,20,G-F,Memphis
+Lance,Stephenson,6,6,230,2010,9/5/1990,USA,8,6,G,Cincinnati
+Edmond,Sumner,6,6,176,2017,12/31/1995,USA,1,5,G,Xavier
+Caleb,Swanigan,6,9,250,2017,4/18/1997,USA,1,50,F,Purdue
+Jayson,Tatum,6,8,208,2017,3/3/1998,USA,1,0,F,Duke
+Jeff,Teague,6,2,195,2009,6/10/1988,USA,9,0,G,Wake Forest
+Garrett,Temple,6,6,195,2009,5/8/1986,USA,8,17,G-F,Louisiana State
+Milos,Teodosic,6,5,196,2017,3/19/1987,Serbia,1,4,G,
+Jared,Terrell,6,3,227,,2/10/1995,USA,0,3,G,Rhode Island
+Daniel,Theis,6,8,243,2017,4/4/1992,Germany,1,27,F,
+Isaiah,Thomas,5,9,185,2011,2/7/1989,USA,7,0,G,Washington
+Khyri,Thomas,6,3,210,,5/8/1996,USA,0,13,G,Creighton
+Lance,Thomas,6,8,240,2011,4/24/1988,USA,7,42,F,Duke
+Klay,Thompson,6,7,215,2011,2/8/1990,USA,7,11,G,Washington State
+Tristan,Thompson,6,10,238,2011,3/13/1991,Canada,7,13,F-C,Texas
+Sindarius,Thornwell,6,5,215,2017,11/15/1994,USA,1,0,G,South Carolina
+Anthony,Tolliver,6,8,250,2008,6/1/1985,USA,10,43,F,Creighton
+Karl-Anthony,Towns,7,0,248,2015,11/15/1995,USA,3,32,F-C,Kentucky
+Gary,Trent Jr.,-,-,,,,,,9,G,
+Allonzo,Trier,6,5,200,2018,1/17/1996,USA,0,14,G,University of Arizona
+PJ,Tucker,6,6,245,2006,5/5/1985,USA,7,17,F,Texas
+Evan,Turner,6,7,220,2010,10/27/1988,USA,8,1,G-F,Ohio State
+Myles,Turner,6,11,250,2015,3/24/1996,USA,3,33,F-C,Texas
+Ekpe,Udoh,6,10,245,2010,5/20/1987,USA,6,33,C-F,Baylor
+Tyler,Ulis,5,10,160,2016,1/5/1996,USA,2,0,G,Kentucky
+Jonas,Valanciunas,7,0,265,2012,5/6/1992,Lithuania,6,17,C,"Utena, Lithuania"
+Denzel,Valentine,6,6,210,2016,11/16/1993,USA,2,45,G,Michigan State
+Jarred,Vanderbilt,6,9,214,,4/3/1999,USA,0,8,F,Kentucky
+Fred,VanVleet,6,0,195,2016,2/25/1994,USA,2,23,G,Wichita State
+Noah,Vonleh,6,9,250,2014,8/24/1995,USA,4,32,F,Indiana
+Nikola,Vucevic,7,0,260,2011,10/24/1990,Montenegro,7,9,C,Southern California
+Dwyane,Wade,6,4,220,2003,1/17/1982,USA,15,3,G,Marquette
+Moritz,Wagner,6,11,245,,4/26/1997,Germany,0,15,C,Michigan
+Dion,Waiters,6,4,215,2012,12/10/1991,USA,6,11,G,Syracuse
+Kemba,Walker,6,1,184,2011,5/8/1990,USA,7,15,G,Connecticut
+Lonnie,Walker IV,6,5,205,,12/14/1998,USA,0,1,G,Miami (FL)
+John,Wall,6,4,210,2010,9/6/1990,USA,8,2,G,Kentucky
+Tyrone,Wallace,6,5,198,2017,6/10/1994,USA,1,9,G,California
+Brad,Wanamaker,6,4,210,2018,7/25/1989,USA,0,9,G,Pittsburgh
+TJ,Warren,6,8,215,2014,9/5/1993,USA,4,12,F,North Carolina State
+Yuta,Watanabe,6,9,205,,10/13/1994,Japan,0,12,G,George Washington
+Travis,Wear,6,9,219,2014,9/21/1990,USA,2,21,F,UCLA
+Thomas,Welsh,7,0,255,2018,2/3/1996,USA,0,45,C,California-Los Angeles
+Russell,Westbrook,6,3,200,2008,11/12/1988,USA,10,0,G,UCLA
+Derrick,White,6,4,190,2017,7/2/1994,USA,1,4,G,Colorado
+Hassan,Whiteside,7,0,265,2010,6/13/1989,USA,6,21,C,Marshall
+Andrew,Wiggins,6,8,194,2014,2/23/1995,Canada,4,22,G-F,Kansas
+CJ,Wilcox,6,5,195,2014,12/30/1990,USA,3,23,G,Washington
+Alan,Williams,6,8,265,2015,1/28/1993,USA,3,15,F-C,California-Santa Barbara
+C.J.,Williams,6,5,226,2017,2/6/1990,USA,1,12,G,North Carolina State
+Kenrich,Williams,6,7,210,2018,12/2/1994,,0,34,G-F,
+Lou,Williams,6,1,175,2005,10/27/1986,USA,13,23,G,South Gwinnett HS (GA)
+Marvin,Williams,6,9,237,2005,6/19/1986,USA,13,2,F,North Carolina
+Robert,Williams III,6,10,240,,10/17/1997,USA,0,44,C-F,Texas A&M
+D.J.,Wilson,6,10,231,2017,2/19/1996,USA,1,5,F,Michigan
+Justise,Winslow,6,7,225,2015,3/26/1996,USA,3,20,F,Duke
+Christian,Wood,6,10,214,2015,9/27/1995,USA,2,35,F,Nevada-Las Vegas
+Delon,Wright,6,5,183,2015,4/26/1992,USA,3,55,G,Utah
+Guerschon,Yabusele,6,8,260,2017,12/17/1995,France,1,30,F,
+Thaddeus,Young,6,8,221,2007,6/21/1988,USA,11,21,F,Georgia Tech
+Trae,Young,6,2,180,2018,9/19/1998,USA,0,11,G,Oklahoma
+Cody,Zeller,7,0,240,2013,10/5/1992,USA,5,40,F-C,Indiana
+Ante,Zizic,6,11,254,2017,1/4/1997,Croatia,1,41,C,
+Ivica,Zubac,7,1,240,2016,3/18/1997,Croatia,2,40,C,

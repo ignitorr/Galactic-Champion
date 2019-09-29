@@ -1,0 +1,251 @@
+,Names,Rating,Year
+0,The Shawshank Redemption,9.2,1994
+1,The Godfather,9.2,1972
+2,The Godfather: Part II,9.0,1974
+3,The Dark Knight,8.9,2008
+4,12 Angry Men,8.9,1957
+5,Schindler's List,8.9,1993
+6,Pulp Fiction,8.9,1994
+7,The Lord of the Rings: The Return of the King,8.9,2003
+8,"The Good, the Bad and the Ugly",8.8,1966
+9, Fight Club,8.8,1999
+10, The Lord of the Rings: The Fellowship of the Ring,8.8,2001
+11, Star Wars: Episode V - The Empire Strikes Back,8.7,1980
+12, Forrest Gump,8.7,1994
+13, Inception,8.7,2010
+14, The Lord of the Rings: The Two Towers,8.7,2002
+15, One Flew Over the Cuckoo's Nest,8.7,1975
+16, Goodfellas,8.7,1990
+17, The Matrix,8.7,1999
+18, Seven Samurai,8.6,1954
+19, Star Wars: Episode IV - A New Hope,8.6,1977
+20, City of God,8.6,2002
+21, Se7en,8.6,1995
+22, The Silence of the Lambs,8.6,1991
+23, It's a Wonderful Life,8.6,1946
+24, The Usual Suspects,8.6,1995
+25, Life Is Beautiful,8.6,1997
+26, Léon: The Professional,8.5,1994
+27, Spirited Away,8.5,2001
+28, Saving Private Ryan,8.5,1998
+29, Once Upon a Time in the West,8.5,1968
+30, American History X,8.5,1998
+31, Interstellar,8.5,2014
+32, Casablanca,8.5,1942
+33, Psycho,8.5,1960
+34, City Lights,8.5,1931
+35, Raiders of the Lost Ark,8.5,1981
+36, The Green Mile,8.5,1999
+37, The Intouchables,8.5,2011
+38, Modern Times,8.5,1936
+39, Rear Window,8.5,1954
+40, Terminator 2: Judgment Day,8.5,1991
+41, The Pianist,8.5,2002
+42, The Departed,8.5,2006
+43, Back to the Future,8.5,1985
+44, Whiplash,8.5,2014
+45, Gladiator,8.5,2000
+46, Memento,8.5,2000
+47, Apocalypse Now,8.5,1979
+48, The Prestige,8.5,2006
+49, The Lion King,8.5,1994
+50, Alien,8.4,1979
+51, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,1964
+52, Sunset Blvd.,8.4,1950
+53, The Great Dictator,8.4,1940
+54, The Lives of Others,8.4,2006
+55, Cinema Paradiso,8.4,1988
+56, Paths of Glory,8.4,1957
+57, Django Unchained,8.4,2012
+58, The Shining,8.4,1980
+59, Grave of the Fireflies,8.4,1988
+60, WALL·E,8.4,2008
+61, The Dark Knight Rises,8.4,2012
+62, American Beauty,8.4,1999
+63, Princess Mononoke,8.4,1997
+64, Aliens,8.4,1986
+65, Oldeuboi,8.4,2003
+66, Once Upon a Time in America,8.4,1984
+67, Citizen Kane,8.3,1941
+68, Das Boot,8.3,1981
+69, Witness for the Prosecution,8.3,1957
+70, North by Northwest,8.3,1959
+71, Vertigo,8.3,1958
+72, Star Wars: Episode VI - Return of the Jedi,8.3,1983
+73, M,8.3,1931
+74, Reservoir Dogs,8.3,1992
+75, Braveheart,8.3,1995
+76, Amélie,8.3,2001
+77, Requiem for a Dream,8.3,2000
+78, A Clockwork Orange,8.3,1971
+79, Taxi Driver,8.3,1976
+80, Lawrence of Arabia,8.3,1962
+81, Double Indemnity,8.3,1944
+82, To Kill a Mockingbird,8.3,1962
+83, Babam ve Oglum,8.3,2005
+84, Toy Story 3,8.3,2010
+85, Eternal Sunshine of the Spotless Mind,8.3,2004
+86, Taare Zameen Par,8.3,2007
+87, Amadeus,8.3,1984
+88, Full Metal Jacket,8.3,1987
+89, The Sting,8.3,1973
+90, Hacksaw Ridge,8.3,2016
+91, 2001: A Space Odyssey,8.3,1968
+92, Bicycle Thieves,8.3,1948
+93, Toy Story,8.3,1995
+94, Arrival,8.3,2016
+95, Snatch,8.3,2000
+96, Singin' in the Rain,8.3,1952
+97, Inglourious Basterds,8.3,2009
+98, The Kid,8.3,1921
+99,  Monty Python and the Holy Grail,8.3,1975
+100,  L.A. Confidential,8.3,1997
+101,  For a Few Dollars More,8.3,1965
+102,  3 Idiots,8.3,2009
+103,  Rashômon,8.3,1950
+104,  Scarface,8.3,1983
+105,  The Apartment,8.3,1960
+106,  Indiana Jones and the Last Crusade,8.2,1989
+107,  Jagten,8.2,2012
+108,  Jodaeiye Nader az Simin,8.2,2011
+109,  Metropolis,8.2,1927
+110,  Good Will Hunting,8.2,1997
+111,  All About Eve,8.2,1950
+112,  Yojimbo,8.2,1961
+113,  Batman Begins,8.2,2005
+114,  Some Like It Hot,8.2,1959
+115,  The Treasure of the Sierra Madre,8.2,1948
+116,  Up,8.2,2009
+117,  Unforgiven,8.2,1992
+118,  Downfall,8.2,2004
+119,  The Third Man,8.2,1949
+120,  Raging Bull,8.2,1980
+121,  Die Hard,8.2,1988
+122,  Children of Heaven,8.2,1997
+123,  The Great Escape,8.2,1963
+124,  Heat,8.2,1995
+125,  Chinatown,8.2,1974
+126,  Inside Out,8.2,2015
+127,  Pan's Labyrinth,8.2,2006
+128,  Ikiru,8.2,1952
+129,  My Neighbor Totoro,8.2,1988
+130,  Andaz Apna Apna,8.2,1994
+131,  On the Waterfront,8.2,1954
+132,  Room,8.2,2015
+133,  Ran,8.2,1985
+134,  The Gold Rush,8.2,1925
+135,  The Bridge on the River Kwai,8.2,1957
+136,  The Secret in Their Eyes,8.2,2009
+137,  Mr. Smith Goes to Washington,8.2,1939
+138,  Blade Runner,8.2,1982
+139,  A Wednesday,8.2,2008
+140,  The Seventh Seal,8.2,1957
+141,  The Bandit,8.2,1996
+142,  Hera Pheri,8.2,2000
+143,"  Lock, Stock and Two Smoking Barrels",8.2,1998
+144,  Howl's Moving Castle,8.2,2004
+145,  Casino,8.2,1995
+146,  Judgment at Nuremberg,8.2,1961
+147,  A Beautiful Mind,8.2,2001
+148,  Wild Strawberries,8.2,1957
+149,  The Elephant Man,8.2,1980
+150,  The General,8.2,1926
+151,  Incendies,8.2,2010
+152,  Warrior,8.1,2011
+153,  V for Vendetta,8.1,2005
+154,  The Wolf of Wall Street,8.1,2013
+155,  The Passion of Joan of Arc,8.1,1928
+156,  Sunrise,8.1,1927
+157,  Sholay,8.1,1975
+158,  Munna Bhai M.B.B.S.,8.1,2003
+159,  Rang De Basanti,8.1,2006
+160,  Gran Torino,8.1,2008
+161,  The Big Lebowski,8.1,1998
+162,  Tokyo Story,8.1,1953
+163,  Dial M for Murder,8.1,1954
+164,  The Deer Hunter,8.1,1978
+165,  Trainspotting,8.1,1996
+166,  Gone with the Wind,8.1,1939
+167,  Fargo,8.1,1996
+168,  Finding Nemo,8.1,2003
+169,  Cool Hand Luke,8.1,1967
+170,  Rebecca,8.1,1940
+171,  The Sixth Sense,8.1,1999
+172,  The Thing,8.1,1982
+173,  How to Train Your Dragon,8.1,2010
+174,  No Country for Old Men,8.1,2007
+175,  Star Wars: The Force Awakens,8.1,2015
+176,  Into the Wild,8.1,2007
+177,  Kill Bill: Vol. 1,8.1,2003
+178,  Come and See,8.1,1985
+179,  Mary and Max,8.1,2009
+180,  Gone Girl,8.1,2014
+181,  There Will Be Blood,8.1,2007
+182,  It Happened One Night,8.1,1934
+183,  Life of Brian,8.1,1979
+184,  Drishyam,8.1,2015
+185,  Rush,8.1,2013
+186,  Hotel Rwanda,8.1,2004
+187,  Platoon,8.1,1986
+188,  Shutter Island,8.1,2010
+189,  The Nights of Cabiria,8.1,1957
+190,  Network,8.1,1976
+191,  The Wages of Fear,8.1,1953
+192,  Spotlight,8.1,2015
+193,  Stand by Me,8.1,1986
+194,  In the Name of the Father,8.1,1993
+195,  Butch Cassidy and the Sundance Kid,8.1,1969
+196,  The Maltese Falcon,8.1,1941
+197,  Mad Max: Fury Road,8.1,2015
+198,  The 400 Blows,8.1,1959
+199,  Relatos salvajes,8.1,2014
+200,  12 Years a Slave,8.1,2013
+201,  Ben-Hur,8.1,1959
+202,  Persona,8.1,1966
+203,  The Grand Budapest Hotel,8.1,2014
+204,  Million Dollar Baby,8.1,2004
+205,  Amores Perros,8.1,2000
+206,  The Princess Bride,8.1,1987
+207,  Jurassic Park,8.1,1993
+208,  Hachi: A Dog's Tale,8.1,2009
+209,  The Message,8.1,1976
+210,  Nausicaä of the Valley of the Wind,8.1,1984
+211,  Memories of Murder,8.0,2003
+212,  Stalker,8.0,1979
+213,  Touch of Evil,8.0,1958
+214,  The Grapes of Wrath,8.0,1940
+215,  Udaan,8.0,2010
+216,  The Truman Show,8.0,1998
+217,  Before Sunrise,8.0,1995
+218,  Annie Hall,8.0,1977
+219,  Gandhi,8.0,1982
+220,  Zootopia,8.0,2016
+221,  The Bourne Ultimatum,8.0,2007
+222,  Rocky,8.0,1976
+223,  Diabolique,8.0,1955
+224,  Donnie Darko,8.0,2001
+225,  Harry Potter and the Deathly Hallows: Part 2,8.0,2011
+226,  Chak de! India,8.0,2007
+227,"  Monsters, Inc.",8.0,2001
+228,  8½,8.0,1963
+229,  The Wizard of Oz,8.0,1939
+230,  The Terminator,8.0,1984
+231,  Prisoners,8.0,2013
+232,  Groundhog Day,8.0,1993
+233,  Twelve Monkeys,8.0,1995
+234,  Jaws,8.0,1975
+235,  Catch Me If You Can,8.0,2002
+236,  La Haine,8.0,1995
+237,  Barry Lyndon,8.0,1975
+238,  The Best Years of Our Lives,8.0,1946
+239,  Infernal Affairs,8.0,2002
+240,  Strangers on a Train,8.0,1951
+241,  Kind Hearts and Coronets,8.0,1949
+242,  Sin City,8.0,2005
+243,  The Battle of Algiers,8.0,1966
+244,  Dog Day Afternoon,8.0,1975
+245,  Pirates of the Caribbean: The Curse of the Black Pearl,8.0,2003
+246,  The Help,8.0,2011
+247,  The Imitation Game,8.0,2014
+248,  Yip Man,8.0,2008
+249,  Song of the Sea,8.0,2014

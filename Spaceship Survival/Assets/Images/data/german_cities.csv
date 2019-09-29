@@ -1,0 +1,201 @@
+cities,population,state,zip
+Aachen,243336,NRW,52062
+Aalen,67079,BW,73430
+Amberg,41535,BY,92224
+Annaberg-Buchholz,20394,SN,9456
+Ansbach,40010,BY,91522
+Aschaffenburg,68167,BY,63739
+Auerbach/Vogtland,18984,SN,8209
+Augsburg,281111,BY,86150
+Bad Kreuznach,48813,RP,55545
+Bad Reichenhall,17327,BY,83435
+Baden-Baden,53342,BW,76530
+Bamberg,71952,BY,96047
+Bautzen,39475,SN,2625
+Bayreuth,71601,BY,95444
+Berlin,3469849,BE,10178
+Biberach an der Riß,31525,BW,88400
+Bielefeld,329782,NRW,33602
+Bocholt,70837,NRW,46395
+Bochum,361876,NRW,44787
+Bonn,313958,NRW,53111
+Bottrop,116017,NRW,46236
+Brandenburg an der Havel,71032,BB,14770
+Braunschweig,248502,NI,38100
+Bremen,551767,HB,28195
+Bremerhaven,110121,HB,27576
+Castrop-Rauxel,73518,NRW,44575
+Celle,68721,NI,29221
+Chemnitz,243521,SN,9111
+Coburg,41062,BY,96450
+Cottbus,99491,BB,3046
+Darmstadt,151879,HE,64283
+Delitzsch,24911,SN,4509
+Delmenhorst,74804,NI,27749
+Dessau-Roßlau,83061,ST,6844
+Dortmund,580511,NRW,44135
+Dresden,536308,SN,1067
+Duisburg,485465,NRW,47051
+Düren,89024,NRW,52349
+Düsseldorf,604527,NRW,40213
+Eisenach,41884,TH,99817
+Eisenhüttenstadt,27444,BB,15890
+Emden,50016,NI,26721
+Erfurt,206219,TH,99084
+Erkner,11540,BB,15537
+Erlangen,106423,BY,91052
+Essen,573784,NRW,45127
+Esslingen am Neckar,90378,BW,73728
+Falkensee,41777,BB,14612
+Filderstadt,44721,BW,70794
+Finsterwalde,16407,BB,3238
+Flensburg,84694,SH,24937
+Forst (Lausitz),18945,BB,3149
+Frankenthal (Pfalz),47724,RP,67227
+Frankfurt (Oder),57649,BB,15230
+Frankfurt am Main,717624,HE,60311
+Freiberg,40829,SN,9599
+Freiburg im Breisgau,222203,BW,79098
+Friedrichshafen,58350,BW,88045
+Fulda,65540,HE,36037
+Fürth,121519,BY,90762
+Gelsenkirchen,257651,NRW,45879
+Gera,94492,TH,7545
+Gießen,83280,HE,35390
+Gladbeck,74086,NRW,45964
+Glauchau,23231,SN,8371
+Goslar,50457,NI,38640
+Gotha,44682,TH,99867
+Greifswald,56685,MV,17489
+Gräfelfing,13269,BY,82166
+Göttingen,117665,NI,37083
+Hagen,186716,NRW,58095
+Halle (Saale),232470,ST,6108
+Hamburg,1762791,HH,20038
+Hameln,56310,NI,31785
+Hamm,176580,NRW,59065
+Hanau,90934,HE,63450
+Hannover,523642,NI,30159
+Heidelberg,154715,BW,69117
+Heidenheim an der Brenz,47164,BW,89522
+Heilbronn,119841,BW,74072
+Hennigsdorf,25928,BB,16761
+Herford,65538,NRW,32052
+Herne,154608,NRW,44623
+Hildesheim,99979,NI,31134
+Hof,44325,BY,95028
+Hohen Neuendorf,25239,BB,16540
+Hoyerswerda,33825,SN,2977
+Ingolstadt,131002,BY,85049
+Iserlohn,92899,NRW,58636
+Jena,108207,TH,7743
+Kaiserslautern,97382,RP,67657
+Kamenz,15158,SN,1917
+Karlsruhe,300051,BW,76133
+Kassel,194747,HE,34117
+Kaufbeuren,42014,BY,87600
+Kempten (Allgäu),65624,BY,87435
+Kiel,243148,SH,24103
+Koblenz,111434,RP,56068
+Konstanz,81692,BW,78462
+Krefeld,222500,NRW,47803
+Köln,1046680,NRW,50667
+Landau in der Pfalz,44465,RP,76829
+Landsberg am Lech,28432,BY,86899
+Landshut,67509,BY,84028
+Lauchhammer,15099,BB,1979
+Leinefelde-Worbis,18513,TH,37327
+Leipzig,544479,SN,4109
+Leverkusen,161540,NRW,51373
+Limbach-Oberfrohna,24014,SN,9212
+Lindau (Bodensee),24740,BY,88131
+Ludwigsburg,91116,BW,71638
+Ludwigshafen am Rhein,163832,RP,67059
+Lörrach,48601,BW,79539
+Lübeck,214420,SH,23539
+Lüneburg,72546,NI,21335
+Magdeburg,232306,ST,39104
+Mainz,206991,RP,55116
+Mannheim,299844,BW,68159
+Marburg,73147,HE,35037
+Memmingen,42201,BY,87700
+Merseburg,33317,ST,6217
+Mönchengladbach,256853,NRW,41061
+Mühlhausen/Thüringen,33201,TH,99974
+Mülheim an der Ruhr,167108,NRW,45468
+München,1429584,BY,80331
+Münster,302178,NRW,48143
+Neu-Ulm,55689,BY,89231
+Neubrandenburg,63311,MV,17033
+Neuenhagen bei Berlin,17435,BB,15366
+Neumünster,77588,SH,24534
+Neuruppin,30665,BB,16816
+Neuss,152644,NRW,41460
+Neustadt am Rübenberge,43499,NI,31535
+Neustadt an der Weinstraße,52564,RP,67433
+Neustadt bei Coburg,15258,BY,96465
+Neuwied,63769,RP,56564
+Nordhausen,41800,TH,99734
+Nürnberg,501072,BY,90403
+Nürtingen,39960,BW,72622
+Oberhausen,209292,NRW,46045
+Offenbach am Main,120988,HE,63065
+Offenburg,57687,BW,77652
+Oldenburg,160907,NI,26122
+Osnabrück,156897,NI,49074
+Passau,49952,BY,94032
+Pforzheim,119291,BW,75175
+Pirmasens,40046,RP,66953
+Pirna,37768,SN,1796
+Plauen,64077,SN,8523
+Potsdam,164042,BB,14461
+Quedlinburg,24742,ST,6484
+Recklinghausen,114147,NRW,45657
+Regensburg,142292,BY,93047
+Remscheid,109009,NRW,42853
+Reutlingen,112452,BW,72764
+Riesa,31011,SN,1589
+Rosenheim,60889,BY,83022
+Rostock,204167,MV,18055
+Saarbrücken,176926,SL,66111
+Salzgitter,98966,NI,38226
+Sassnitz,9476,MV,18546
+Schwabach,39941,BY,91126
+Schwedt/Oder,30273,BB,16303
+Schweinfurt,51610,BY,97421
+Schwerin,92138,MV,19053
+Schwäbisch Gmünd,59166,BW,73525
+Siegen,100325,NRW,57072
+Sindelfingen,62215,BW,71063
+Solingen,156771,NRW,42651
+Speyer,49855,RP,67346
+Stendal,40079,ST,39576
+Straubing,46027,BY,94315
+Stuttgart,612441,BW,70173
+Suhl,36208,TH,98527
+Taucha,14832,SN,4425
+Teltow,24609,BB,14513
+Teterow,8642,MV,17166
+Traunstein,19365,BY,83278
+Trier,108472,RP,54290
+Tübingen,85871,BW,72070
+Ulm,120714,BW,89073
+Velten,11718,BB,16727
+Viersen,75058,NRW,41747
+Villingen-Schwenningen,81916,BW,78050
+Völklingen,38651,SL,66333
+Weiden in der Oberpfalz,41817,BY,92637
+Weimar,63477,TH,99423
+Wiesbaden,275116,HE,65183
+Wilhelmshaven,75534,NI,26382
+Wismar,42392,MV,23952
+Witten,95907,NRW,58452
+Wittenberg,46621,ST,6886
+Wolfenbüttel,51670,NI,38300
+Wolfsburg,123027,NI,38440
+Wolgast,12273,MV,17438
+Worms,81010,RP,67547
+Wuppertal,345425,NRW,42275
+Würzburg,124219,BY,97070
+Zweibrücken,34011,RP,66482
+Zwickau,91066,SN,8056

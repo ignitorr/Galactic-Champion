@@ -1,0 +1,101 @@
+rank,rating,title,year,num_reviews
+1,99%,The Wizard of Oz,1939,109
+2,100%,Citizen Kane,1941,73
+3,100%,The Third Man,1949,77
+4,97%,Mad Max: Fury Road,2015,359
+5,100%,All About Eve,1950,64
+6,100%,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari),1920,49
+7,98%,Inside Out,2015,319
+8,99%,The Godfather,1972,85
+9,99%,Metropolis,1927,115
+10,99%,Get Out,2017,230
+11,100%,Modern Times,1936,53
+12,98%,E.T. The Extra-Terrestrial,1982,113
+13,100%,Singin' in the Rain,1952,49
+14,98%,It Happened One Night,1934,52
+15,97%,Casablanca,1942,74
+16,98%,Boyhood,2014,278
+17,100%,Laura,1944,60
+18,98%,A Hard Day's Night,1964,102
+19,97%,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire)",1922,62
+20,98%,Snow White and the Seven Dwarfs,1937,47
+21,98%,Moonlight,2016,280
+22,99%,The Battle of Algiers (La Battaglia di Algeri),1967,82
+23,97%,La Grande illusion (Grand Illusion),1938,63
+24,100%,North by Northwest,1959,64
+25,100%,Repulsion,1965,60
+26,96%,Gravity,2013,314
+27,100%,The Maltese Falcon,1941,49
+28,96%,12 Years a Slave,2013,314
+29,98%,Sunset Boulevard,1950,60
+30,98%,King Kong,1933,54
+31,100%,The Adventures of Robin Hood,1938,45
+32,100%,Rear Window,1954,63
+33,100%,Rashômon,1951,49
+34,96%,Psycho,1960,84
+35,96%,Spotlight,2015,303
+36,99%,Taxi Driver,1976,77
+37,99%,Selma,2015,228
+38,99%,Toy Story 3,2010,290
+39,100%,Toy Story 2,1999,163
+40,96%,Argo,2012,313
+41,100%,The Bride of Frankenstein,1935,41
+42,100%,M,1931,51
+43,100%,The Philadelphia Story,1940,54
+44,98%,Zootopia,2016,243
+45,100%,Seven Samurai (Shichinin no Samurai),1956,57
+46,100%,The Treasure of the Sierra Madre,1948,45
+47,100%,All Quiet on the Western Front,1930,40
+48,98%,Up,2009,285
+49,97%,Alien,1979,102
+50,100%,The 400 Blows (Les Quatre cents coups),1959,54
+51,98%,Bicycle Thieves (Ladri di biciclette),1949,56
+52,97%,Army of Shadows (L'Armée des ombres),1969,73
+53,100%,12 Angry Men (Twelve Angry Men),1957,48
+54,98%,A Streetcar Named Desire,1951,54
+55,98%,Hell or High Water,2016,229
+56,99%,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb,1964,73
+57,98%,The Night of the Hunter,1955,63
+58,99%,Rosemary's Baby,1968,69
+59,100%,Rebecca,1940,48
+60,100%,Frankenstein,1931,45
+61,100%,The Conformist,1970,50
+62,97%,Vertigo,1958,64
+63,99%,Finding Nemo,2003,255
+64,96%,Touch of Evil,1958,70
+65,92%,Star Wars: Episode VII - The Force Awakens,2015,365
+66,98%,The Wrestler,2008,221
+67,96%,Manchester by the Sea,2016,267
+68,99%,Annie Hall,1977,67
+69,94%,The Dark Knight,2008,318
+70,99%,L.A. Confidential,1997,108
+71,97%,"The Good, the Bad and the Ugly",1966,68
+72,98%,The Hurt Locker,2009,256
+73,98%,The 39 Steps,1935,44
+74,98%,The Babadook,2014,207
+75,93%,La La Land,2016,338
+76,94%,Arrival,2016,313
+77,94%,Gone With the Wind,1939,81
+78,93%,Skyfall,2012,348
+79,92%,Logan,2017,283
+80,100%,Pinocchio,1940,45
+81,100%,Open City,1946,40
+82,97%,Brooklyn,2015,235
+83,100%,Tokyo Story (Tôkyô monogatari),1953,41
+84,96%,High Noon,1952,50
+85,100%,The Last Picture Show,1971,51
+86,95%,Star Trek,2009,333
+87,100%,The Wages of Fear,1953,40
+88,100%,The Grapes of Wrath,1940,43
+89,98%,Roman Holiday,1953,52
+90,98%,On the Waterfront,1954,60
+91,96%,Harry Potter and the Deathly Hallows - Part 2,2011,310
+92,100%,Man on Wire,2008,154
+93,100%,Toy Story,1995,78
+94,97%,"The Godfather, Part II",1974,72
+95,97%,Jaws,1975,74
+96,95%,The Jungle Book,2016,274
+97,100%,Battleship Potemkin,1925,45
+98,100%,Anatomy of a Murder,1959,42
+99,97%,It Follows,2015,220
+100,98%,The Lady Vanishes,1938,41

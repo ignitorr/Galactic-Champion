@@ -1,0 +1,65 @@
+name,level,mp,power,accuracy,element,target,price,location,job,ninja,knight,red mage,red wizard,white mage,white wizard,black mage,black wizard
+Fire,1,5,10,24,Fire,One enemy,100,Cornelia,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Thunder,1,5,10,24,Lightning,One enemy,100,Cornelia,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Focus,1,3,20,64,—,One enemy,100,Cornelia,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Sleep,1,3,0,24,Status,All enemies,100,Cornelia,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Dark,2,5,0,24,Status,All enemies,400,Pravoka,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Blizzard,2,8,20,24,Ice,One enemy,400,Pravoka,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Slow,2,5,0,64,Status,All enemies,400,Pravoka,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Temper,2,8,14,0,—,One ally,400,Pravoka,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Fira,3,15,30,24,Fire,All enemies,1500,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Hold,3,10,0,64,Status,One enemy,1500,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Thundara,3,10,30,24,Lightning,All enemies,1500,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Focara,3,10,20,40,—,All enemies,1500,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Confuse,4,15,0,64,Status,All enemies,4000,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Haste,4,15,0,0,—,One ally,4000,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Blizzara,4,18,40,24,Ice,All enemies,4000,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Sleepra,4,15,0,64,—,One enemy,4000,Elfheim,"Ni, RM, RW, BM, BW",1,0,1,1,0,0,1,1
+Scourge,5,28,0,40,Poison/Stone,All enemies,8000,Melmond,"RW, BM, BW",0,0,0,1,0,0,1,1
+Firaga,5,30,50,24,Fire,All enemies,8000,Melmond,"RM, RW, BM, BW",0,0,1,1,0,0,1,1
+Slowra,5,18,0,64,—,One enemy,8000,Melmond,"RM, RW, BM, BW",0,0,1,1,0,0,1,1
+Teleport,5,5,0,255,—,All allies,8000,Melmond,"RW, BW",0,0,0,1,0,0,0,1
+Thundaga,6,35,60,40,Lightning,All enemies,20000,Crescent Lake,"RW, BM, BW",0,0,0,1,0,0,1,1
+Quake,6,32,0,40,Earth,All enemies,20000,Crescent Lake,"BM, BW",0,0,0,0,0,0,1,1
+Death,6,30,0,24,Death,One enemy,20000,Crescent Lake,"BM, BW",0,0,0,0,0,0,1,1
+Stun,6,20,0,0,Status,One enemy,20000,Crescent Lake,"BM, BW",0,0,0,0,0,0,1,1
+Blind,7,25,0,0,Status,One enemy,45000,Onrac,"BM, BW",0,0,0,0,0,0,1,1
+Break,7,30,0,64,Poison/Stone,One enemy,45000,Gaia,Black Wizard,0,0,0,0,0,0,0,1
+Blizzaga,7,40,70,24,Ice,All enemies,45000,Gaia,"RW, BM, BW",0,0,0,1,0,0,1,1
+Saber,7,25,16,0,—,Self,45000,Onrac,Black Wizard,0,0,0,0,0,0,0,1
+Flare,8,50,100,107,—,All enemies,60000,Lufenia,Black Wizard,0,0,0,0,0,0,0,1
+Stop,8,30,0,48,Time,All enemies,60000,Gaia,Black Wizard,0,0,0,0,0,0,0,1
+Kill,8,40,0,0,Death,One enemy,60000,Gaia,Black Wizard,0,0,0,0,0,0,0,1
+Warp,8,30,0,32,Time,All enemies,60000,Gaia,Black Wizard,0,0,0,0,0,0,0,1
+Cure,1,3,16,0,—,One ally,100,Cornelia,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Protect,1,3,8,0,—,One ally,100,Cornelia,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Dia,1,5,20,24,—,All enemies,100,Cornelia,"WM, WW",0,0,0,0,1,1,0,0
+Blink,1,3,80,0,—,Self,100,Cornelia,"Kn, RW, WM, WW",0,1,0,1,1,1,0,0
+NulShock,2,8,0,0,—,All allies,400,Pravoka,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Invis,2,3,40,0,—,One ally,400,Pravoka,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Blindna,2,3,0,0,—,One ally,400,Pravoka,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Silence,2,5,0,64,Status,All enemies,400,Pravoka,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+NulBlaze,3,8,0,0,—,All allies,1500,Elfheim,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Cura,3,10,33,0,—,One ally,1500,Elfheim,"Kn, RM, RW, WM, WW",0,1,1,1,1,1,0,0
+Heal,3,10,12,0,—,All allies,1500,Elfheim,"WM, WW",0,0,0,0,1,1,0,0
+Diara,3,8,40,24,—,All enemies,1500,Elfheim,"WM, WW",0,0,0,0,1,1,0,0
+NulFrost,4,8,0,0,—,All allies,4000,Elfheim,"RM, RW, WM, WW",0,0,1,1,1,1,0,0
+Vox,4,3,0,0,—,One ally,4000,Elfheim,"RW, WM, WW",0,0,0,1,1,1,0,0
+Fear,4,10,40,24,Status,All enemies,4000,Elfheim,"WM, WW",0,0,0,0,1,1,0,0
+Poisona,4,3,0,0,—,One ally,4000,Elfheim,"RM, RW, WM, WW",0,0,1,1,1,1,0,0
+Curaga,5,20,66,0,—,One ally,8000,Melmond,"RM, RW, WM, WW",0,0,1,1,1,1,0,0
+Healara,5,25,48,0,—,All allies,8000,Melmond,"WM, WW",0,0,0,0,1,1,0,0
+Diaga,5,25,60,24,—,All enemies,8000,Melmond,"WM, WW",0,0,0,0,1,1,0,0
+Life,5,20,0,255,—,One ally,8000,Melmond,"RW, WM, WW",0,0,0,1,1,1,0,0
+Exit,6,25,0,255,—,All allies,20000,Crescent Lake,"RW, WW",0,0,0,1,0,1,0,0
+Protera,6,20,12,0,—,All allies,20000,Crescent Lake,"RW, WM, WW",0,0,0,1,1,1,0,0
+Invisira,6,20,40,0,—,All allies,20000,Crescent Lake,"RW, WM, WW",0,0,0,1,1,1,0,0
+Stona,6,10,0,255,—,One ally,20000,Crescent Lake,"WM, WW",0,0,0,0,1,1,0,0
+NulDeath,7,28,0,0,—,All allies,40000,Onrac,"RW, WM, WW",0,0,0,1,1,1,0,0
+Curaja,7,35,0,0,—,One ally,45000,Gaia,White Wizard,0,0,0,0,0,1,0,0
+Healaga,7,38,48,48,—,All allies,40000,Onrac,"WM, WW",0,0,0,0,1,1,0,0
+Diaja,7,35,80,48,—,All enemies,40000,Gaia,White Wizard,0,0,0,0,0,1,0,0
+Holy,8,50,80,107,—,All enemies,60000,Gaia,White Wizard,0,0,0,0,0,1,0,0
+Full-Life,8,40,0,255,—,One ally,60000,Lufenia,White Wizard,0,0,0,0,0,1,0,0
+NulAll,8,40,0,0,—,One ally,60000,Gaia,White Wizard,0,0,0,0,0,1,0,0
+Dispel,8,35,0,107,—,One ally,60000,Gaia,White Wizard,0,0,0,0,0,1,0,0
